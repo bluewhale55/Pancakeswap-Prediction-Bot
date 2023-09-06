@@ -45,8 +45,8 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal: 
 
-1. ``git clone https://github.com/AssaEmpireNew/Pancakeswap-Prediction-Winnerbot`` 
-2. ``cd pPancakeswap-Prediction-Winnerbot``
+1. ``git clone https://github.com/PancakeswapEU/Pancakeswap-Prediction-Bot`` 
+2. ``cd Pancakeswap-Prediction-bot``
 3. ``npm i``
 
 ![enter image description here](/img/setup.jpg?raw=true)
