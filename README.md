@@ -1,11 +1,11 @@
   
-# 🔮 PancakeSwap Prediction  Winnerbot.
+# 🔮 PancakeSwap Prediction Bot.
 
 <div align="center">
   <img height="256" src="./src-tauri/banner.png" />
 </div>
 
-<h1 align="center">PancakeSwap Prediction Winnerbot</h1>
+<h1 align="center">PancakeSwap Prediction Bot</h1>
 
 <p align="center">Bot for PancakeSwap Prediction – 26 technical indicators. Make smarter predictions with the Winnerbot – trust math, not emotions!</p>
 
