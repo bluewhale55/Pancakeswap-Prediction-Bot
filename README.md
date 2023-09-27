@@ -107,7 +107,7 @@ Don't risk any money you're not willing to lose.
 
 💸**This code, repository or scripts should NOT be construed as investment advice.**
 Any mention of past or projected investment performance is not, and should not be construed as, a recommendation or guarantee of any particular result or benefit. By using this application, you agree to bear all risk of loss of money and waive any claims against the developers of the program or anyone associated with it.
-
+ 
 We accept no liability for any loss resulting from inaccuracy or incompleteness, nor for any loss incurred or dissemination of information through the Internet, such as disruptions or interruptions. When using web forms, we strive to minimize the number of fields used. NewAssaEmpire shall not be liable for any loss arising out of the use of any data, advice or ideas recommended or derived from Winnerbot.
 
 **Please be aware of clones**
