@@ -76,6 +76,7 @@ A lot of wallets don't provide you the private key, but just the **seed phrase**
 ![Winning rate](/img/rate.jpg?raw=true)
 
 
+
 ## 🤖📈 Strategy
 - The bot take a series of recomendations given by Trading View and proccess them together with the tendency of the rest of people betting. After the algorithm have complete, it choose to bet **🟢UP** or **🔴DOWN**.
 - After all my testings in aprox 300 rounds I was able to achieve a **~70% Win rate**. Of course it depends of a lot of variables, so I can't ensure that you will reproduce the same behavior. But I can tell that I make $20 - $70 daily with $3 Bets.
