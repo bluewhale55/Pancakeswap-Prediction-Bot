@@ -1,6 +1,6 @@
   
 # 🔮 PancakeSwap Prediction Bot.
-
+ 
 <div align="center">
   <img height="256" src="./src-tauri/banner.png" />
 </div>
