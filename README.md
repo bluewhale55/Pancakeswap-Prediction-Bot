@@ -87,6 +87,7 @@ A lot of wallets don't provide you the private key, but just the **seed phrase**
 - Its recomendable to have x10 - x50 the amount of bet to have an average of rounds.
 
 
+
 💰You can check the history of rounds and claim rewards here: https://pancakeswap.finance/prediction
 
 ## ✔️ To Do 
